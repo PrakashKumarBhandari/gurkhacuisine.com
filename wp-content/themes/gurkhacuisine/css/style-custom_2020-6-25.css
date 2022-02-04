@@ -1,0 +1,348 @@
+.search_icon{
+    cursor: pointer;
+}
+
+.foode-item_nav li{
+    width: 24%;
+margin: 5px;
+float: left;
+position: relative;
+text-align: center;
+border: 1px solid #ccc;
+}
+
+
+
+.rtb-text.date {
+    float: left;
+    width: 45%;   
+    margin-right:10%;
+}
+
+.rtb-text.date  input{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.rtb-text.time {
+    float: left;
+    width: 45%;
+}
+.rtb-text.time  input{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+
+.rtb-text.name {
+    float: left;
+    width: 100%;   
+    margin-right:10%;
+}
+
+.rtb-text.name  input{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.rtb-text.email {
+    float: left;
+    width: 100%;
+}
+.rtb-text.email  input{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.rtb-text.phone {
+    float: left;
+    width: 100%;
+}
+.rtb-text.phone  input{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+.rtb-textarea .message  {
+    float: left;
+    width: 100%;
+}
+.rtb-textarea .message   textarea{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.contact-form-box textarea{
+    max-width: 100% !important;
+}
+
+.rtb-booking-form button[type=submit] {
+    background: #e54c2a none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 20px;
+    padding: 12px 0;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 100%;
+    cursor: pointer;
+}
+
+.rtb-booking-form button[type=submit]:hover {
+    background: #555;
+  }
+
+.reservation  legend{
+    display: none;
+    /* color: #535353;
+    font-family: "Great Vibes",cursive;
+    font-size: 36px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-transform: capitalize; */
+}
+.single-footer .open-list li{
+    line-height: 20px;
+}
+
+.booking-open-list li{
+    list-style: circle;
+    padding: 8px;
+    margin: 10px 20px;
+}
+
+.newsletter-form .tnp-firstname{
+    background:#fff!important;
+    border: medium none;
+    color: #999999!important;
+    font-weight: 600;
+    height: 36px !important;
+    padding: 0 10px;
+}
+.newsletter-form .tnp-email{
+    background:#fff!important;
+    border: medium none;
+    color: #999999!important;
+    font-weight: 600;
+    height: 36px !important;
+    padding: 0 10px;
+}
+
+.newsletter-form input[type=submit] {
+    background-color:#e54c2a!important;
+    border: medium none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 20px;
+    padding: 12px 0;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    width: 100%;
+    cursor: pointer;
+}
+
+.newsletter-form input[type=submit]:hover {
+    background-color: #555!important;
+}
+
+.blog-thumbnail img{
+    width: 100%;
+}
+.comment-form-cookies-consent label{
+    float: left;
+    padding: 10px;
+}
+#wp-comment-cookies-consent{
+    float:left;
+    width: 20px;
+
+}
+
+/* 
+.articles-details .blog-no-thumbnail{
+    position: relative;
+}
+.blog-no-thumbnail .blog-publish{
+    left: 0px;
+    right: 0px;
+    bottom:0px;
+    position: initial;
+}
+ */
+
+
+
+.blog-no-thumbnail .blog-title h4 {
+    color: #535353;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .blog-no-thumbnail .blog-publish {
+    background: #f1f1f1 none repeat scroll 0 0;
+  }
+  .blog-no-thumbnail .blog-publish {
+    background: #f1f1f1 none repeat scroll 0 0;
+    left: 0px;
+    right: 0px;
+    bottom:0px;
+    right: 0px;
+  }
+  .articles-details .blog-no-thumbnail {
+    position: inherit;
+  }
+  .comments-title{
+    color: #535353;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 47px;
+    text-transform: uppercase;
+  }
+
+  .nav-next{
+    color: #535353;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+  }
+.comment-reply-title{
+color: #535353;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 47px;
+text-transform: uppercase;
+}
+
+.comment-form input[type=submit] {
+    background: #3f51b5;
+    cursor: pointer;
+    border: medium none;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+line-height: 12px;
+margin-top: 25px;
+padding: 14px 0;
+text-transform: uppercase;
+-webkit-transition: all 0.3s ease 0s;
+transition: all 0.3s ease 0s;
+width: 100%;
+}
+
+.newsletter-form input[type=submit]:hover {
+    background-color: #555!important;
+}
+
+/* Right Sidebar custom css */
+.blog-right-sidebar h2{
+    /* font-family: "Great Vibes",cursive; */
+    font-size: 20px;
+    margin-bottom: 18px;
+    text-transform: capitalize;
+}
+
+.blog-right-sidebar section{
+    margin-bottom: 30px;
+}
+.blog-right-sidebar .widget_categories li{
+    border-bottom: 1px dashed #ccc;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+.blog-right-sidebar .widget_categories li:last-child{
+    border-bottom: none;
+}
+
+.blog-right-sidebar .widget_archive li{
+    border-bottom: 1px dashed #ccc;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+.blog-right-sidebar .widget_archive li:last-child{
+    border-bottom: none;
+}
+
+
+.blog-right-sidebar .widget_recent_entries li{
+    width: 100%;
+    border-bottom: 1px dashed #ccc;
+    padding: 8px;
+    margin-bottom: 5px;
+    
+}
+.blog-right-sidebar .widget_recent_entries span{
+    width: 100%;
+   
+   
+}
+.blog-right-sidebar .widget_recent_entries li:last-child{
+    border-bottom: none;
+}
+.blog-right-sidebar .widget_recent_entries li a{
+    width: 100%;
+    display: block;
+    padding: 5px 0px 8px;
+    line-height: 22px; 
+    
+}
+
+.blog-right-sidebar .widget-title .product-categories li{
+
+    font-family: "Lato",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+.blog-right-sidebar .widget-title .product-categories li a::before{
+    content: "";
+    font-family: FontAwesome;
+    margin-right: 12px;
+}
+
+/* Recent Comments*/
+.blog-right-sidebar .widget_recent_comments li{
+    width: 100%;
+    border-bottom: 1px dashed #ccc;
+    padding: 8px;
+    margin-bottom: 5px;
+    
+}
+.blog-right-sidebar .widget_recent_comments li:last-child{
+    border-bottom: none;
+}
+.blog-right-sidebar .widget_recent_comments li a{
+    width: 100%;
+    display: block;
+    padding: 5px 0px 8px; 
+    line-height: 22px; 
+    
+}
+
+
+.order-online-btn{
+background: #255ba6 none repeat scroll 0 0;
+color: #fff;
+display: inline-block;
+letter-spacing: 0;
+padding: 7px 15px;
+margin-left: 15px;
+cursor: pointer;
+}
+
+.nav-previous{
+    float: left;
+}
+.nav-next{
+    float: right;
+
+}
